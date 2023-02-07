@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto de apresentação de links pessoais, como cartão de visitas online.
 
-<a href="https://natalialeites.github.io/page-links/" target="_blank"> -Visite o projeto online </a>
+<a href="https://natalialeites.github.io/page-links-/" target="_blank"> -Visite o projeto online </a>
 
 ## 🔖 Layout
 
